@@ -1,0 +1,44 @@
+
+
+h1{
+	color:red;
+	background:#b3b3b3;
+	font-size:150%;
+}
+
+header{
+	background:#f7f7f7;
+	text-align:center;
+	font-variant:small-caps;
+}
+
+nav{
+	font-family:Arial;
+	font-size:150%;
+    font-variant:small-caps;
+	background:green;
+}
+h2{
+	background:#00b7ea;
+	color:#666666;
+}
+
+span{
+	background-color:#00ff00;
+	height:40px;
+	width:40px;
+}
+
+div{
+	background:#00ffff;
+	width:30%;
+	color:#ffffff;
+	display:table-cell; 
+	
+	
+}
+
+p{
+	background:#000000;
+	color:#ffffff;
+}
